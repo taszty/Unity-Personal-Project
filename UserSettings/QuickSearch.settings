@@ -1,4 +1,4 @@
-trackSelection = false
+trackSelection = true
 fetchPreview = true
 wantsMore = true
 dockable = false
@@ -16,8 +16,7 @@ filters = {
 	settings = true
 }
 scopes = {
-	"last_search.AB59B443" = "terra"
-	"last_search.00000000" = ""
+	"last_search.AB59B443" = "font"
 }
 providers = {
 	asset = {
