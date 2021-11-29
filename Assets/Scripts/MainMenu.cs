@@ -20,5 +20,12 @@ public class MainMenu : MonoBehaviour
         Application.Quit();
     }
 
-
+    // Method for returning to main menu
+    public void ReturnToMain()
+    {
+        // return to main
+        Debug.Log("Returning to main menu!");
+        // Changes scene to main menu
+        SceneManager.LoadScene("Menu");
+    }
 }

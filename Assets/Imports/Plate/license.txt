@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plate
+* source:	https://sketchfab.com/3d-models/plate-84a59a63d64644b49bfbc007947545b5
+* author:	corderito (https://sketchfab.com/corderito)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plate" (https://sketchfab.com/3d-models/plate-84a59a63d64644b49bfbc007947545b5) by corderito (https://sketchfab.com/corderito) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aphrodite Figurine
+* source:	https://sketchfab.com/3d-models/aphrodite-figurine-0cf9ae55b6e540b78902db124a5e277d
+* author:	OpenScan (https://sketchfab.com/openscan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aphrodite Figurine" (https://sketchfab.com/3d-models/aphrodite-figurine-0cf9ae55b6e540b78902db124a5e277d) by OpenScan (https://sketchfab.com/openscan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
